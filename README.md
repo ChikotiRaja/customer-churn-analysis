@@ -13,8 +13,6 @@ Enterprise-grade churn analysis pipeline built with Python and Tableau.
 ### Risk Heatmap
 ![Risk Heatmap](assets/risk_heatmap.png)
 
-## Pipeline Output
-![Pipeline Terminal Output](assets/pipeline_output.png)
 
 ## What This Does
 - Preprocesses raw customer data (handles millions of rows)
