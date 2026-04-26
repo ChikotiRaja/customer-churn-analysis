@@ -1,0 +1,29 @@
+2026-04-26 15:53:45,953 [INFO] ============================================================
+2026-04-26 15:53:45,953 [INFO] CUSTOMER CHURN PREPROCESSING PIPELINE — START
+2026-04-26 15:53:45,954 [INFO] ============================================================
+2026-04-26 15:53:45,954 [INFO] Loading data from data.csv (chunksize=100,000)
+2026-04-26 15:55:41,918 [INFO] ============================================================
+2026-04-26 15:55:41,919 [INFO] CUSTOMER CHURN PREPROCESSING PIPELINE — START
+2026-04-26 15:55:41,919 [INFO] ============================================================
+2026-04-26 15:55:41,920 [INFO] Loading data from data.csv (chunksize=100,000)
+2026-04-26 15:56:37,854 [INFO] ============================================================
+2026-04-26 15:56:37,860 [INFO] CUSTOMER CHURN PREPROCESSING PIPELINE — START
+2026-04-26 15:56:37,861 [INFO] ============================================================
+2026-04-26 15:56:37,862 [INFO] Loading data from data.csv (chunksize=100,000)
+2026-04-26 15:56:37,883 [INFO] Loaded 1,000 rows × 20 columns
+2026-04-26 15:56:37,885 [INFO] Schema validation passed.
+2026-04-26 15:56:37,885 [INFO] Starting data cleaning...
+2026-04-26 15:56:37,889 [INFO] Duplicates removed: 0
+2026-04-26 15:56:37,903 [INFO]   total_charges: derived 0 missing values
+2026-04-26 15:56:37,913 [INFO]   monthly_charges: clamped 20 outliers to [20.55, 109.20]
+2026-04-26 15:56:37,915 [INFO]   tenure_months: clamped 10 outliers to [1.00, 70.01]
+2026-04-26 15:56:37,916 [INFO] Cleaning complete. Rows remaining: 1,000
+2026-04-26 15:56:37,916 [INFO] Engineering features...
+2026-04-26 15:56:37,926 [INFO] Feature engineering complete.
+2026-04-26 15:56:37,926 [INFO] Aggregating data for Tableau extract...
+2026-04-26 15:56:37,989 [INFO] Aggregation complete. Output rows: 750
+2026-04-26 15:56:37,990 [INFO] Extracting top 10,000 high-risk customers...
+2026-04-26 15:56:37,993 [INFO] High-risk detail rows: 304
+2026-04-26 15:56:38,000 [INFO] Aggregated extract saved: output/churn_tableau_extract.csv (74.4 KB)
+2026-04-26 15:56:38,003 [INFO] High-risk detail saved: output/churn_high_risk_detail.csv (29.6 KB)
+2026-04-26 15:56:38,269 [INFO] Parquet files also saved (preferred for Tableau extracts).

@@ -1,0 +1,305 @@
+customer_id,churn_flag,tenure_months,tenure_group,monthly_charges,monthly_charges_group,contract_type,internet_service,payment_method,senior_citizen,churn_risk_score,monthly_revenue_at_risk,projected_clv,engagement_score,last_activity_days
+C00945,0,10.0,7-12 mo,101.12,$90+,Month-to-Month,Fiber Optic,Credit Card,0,95,0.0,606.72,3,85
+C00913,0,7.0,7-12 mo,85.89,$75-$90,Month-to-Month,DSL,Electronic Check,1,95,0.0,515.34,5,71
+C00065,0,10.0,7-12 mo,92.12,$90+,Month-to-Month,No Internet,Electronic Check,0,95,0.0,552.72,2,58
+C00694,0,3.0,0-6 mo,84.78,$75-$90,Month-to-Month,DSL,Bank Transfer,1,90,0.0,508.68,1,67
+C00122,0,3.0,0-6 mo,96.78,$90+,Month-to-Month,Fiber Optic,Mailed Check,1,85,0.0,580.6800000000001,4,73
+C00803,0,6.0,0-6 mo,101.55,$90+,Month-to-Month,DSL,Mailed Check,1,85,0.0,609.3,3,50
+C00658,0,7.0,7-12 mo,85.08,$75-$90,Month-to-Month,Fiber Optic,Credit Card,0,85,0.0,510.48,3,73
+C00918,1,5.0,0-6 mo,107.03,$90+,Month-to-Month,Fiber Optic,Electronic Check,0,85,107.03,642.1800000000001,3,33
+C00610,0,7.0,7-12 mo,100.5,$90+,Month-to-Month,DSL,Bank Transfer,1,85,0.0,603.0,2,44
+C00286,0,3.0,0-6 mo,78.98,$75-$90,Month-to-Month,DSL,Bank Transfer,0,85,0.0,473.88,2,67
+C00429,0,5.0,0-6 mo,34.87,$30-$55,Month-to-Month,No Internet,Credit Card,0,85,0.0,209.21999999999997,3,38
+C00191,1,66.0,60+ mo,87.57,$75-$90,Month-to-Month,No Internet,Electronic Check,0,80,87.57,525.42,1,83
+C00001,1,12.0,7-12 mo,99.33,$90+,Month-to-Month,Fiber Optic,Bank Transfer,0,80,99.33,595.98,2,71
+C00300,0,64.0,60+ mo,92.67,$90+,Month-to-Month,No Internet,Credit Card,1,80,0.0,556.02,4,84
+C00099,0,70.00999999999999,60+ mo,101.35,$90+,Month-to-Month,No Internet,Mailed Check,0,80,0.0,608.0999999999999,4,52
+C00719,0,3.0,0-6 mo,84.35,$75-$90,Month-to-Month,No Internet,Credit Card,0,80,0.0,506.09999999999997,2,6
+C00080,1,48.0,37-60 mo,108.17,$90+,Month-to-Month,Fiber Optic,Credit Card,1,80,108.17,649.02,1,83
+C00023,0,9.0,7-12 mo,62.33,$55-$75,Month-to-Month,No Internet,Electronic Check,0,80,0.0,373.98,4,70
+C00365,0,55.0,37-60 mo,98.17,$90+,Month-to-Month,No Internet,Bank Transfer,0,80,0.0,589.02,1,42
+C00347,0,6.0,0-6 mo,49.74,$30-$55,Month-to-Month,DSL,Electronic Check,1,75,0.0,298.44,0,66
+C00242,1,32.0,25-36 mo,79.05,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,0,75,79.05,474.29999999999995,3,57
+C00076,1,18.0,13-24 mo,86.6,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,0,75,86.6,519.5999999999999,3,46
+C00766,1,21.0,13-24 mo,97.31,$90+,Month-to-Month,No Internet,Credit Card,0,75,97.31,583.86,3,75
+C00928,0,49.0,37-60 mo,96.97,$90+,Month-to-Month,DSL,Bank Transfer,1,75,0.0,581.8199999999999,2,80
+C00150,1,69.0,60+ mo,84.8,$75-$90,Month-to-Month,No Internet,Bank Transfer,0,75,84.8,508.79999999999995,4,63
+C00432,0,56.0,37-60 mo,99.4,$90+,Month-to-Month,Fiber Optic,Bank Transfer,1,75,0.0,596.4000000000001,3,55
+C00431,1,40.0,37-60 mo,85.69,$75-$90,Month-to-Month,No Internet,Bank Transfer,0,75,85.69,514.14,4,87
+C00634,0,39.0,37-60 mo,76.93,$75-$90,Month-to-Month,Fiber Optic,Mailed Check,1,75,0.0,461.58000000000004,1,59
+C00401,1,39.0,37-60 mo,76.03,$75-$90,Month-to-Month,DSL,Bank Transfer,0,75,76.03,456.18,4,81
+C00258,0,58.0,37-60 mo,78.65,$75-$90,Month-to-Month,No Internet,Electronic Check,1,70,0.0,471.90000000000003,2,85
+C00725,1,30.0,25-36 mo,104.64,$90+,Month-to-Month,Fiber Optic,Mailed Check,0,70,104.64,627.84,2,67
+C00231,0,51.0,37-60 mo,97.12,$90+,Month-to-Month,Fiber Optic,Credit Card,1,70,0.0,582.72,2,66
+C00666,0,46.0,37-60 mo,82.8,$75-$90,Month-to-Month,No Internet,Electronic Check,1,70,0.0,496.79999999999995,1,87
+C00763,1,52.0,37-60 mo,77.1,$75-$90,Month-to-Month,Fiber Optic,Mailed Check,1,70,77.1,462.59999999999997,1,46
+C00173,0,38.0,37-60 mo,90.83,$90+,Month-to-Month,No Internet,Electronic Check,1,70,0.0,544.98,3,76
+C00764,0,14.0,13-24 mo,89.37,$75-$90,Month-to-Month,No Internet,Bank Transfer,0,70,0.0,536.22,1,55
+C00833,0,63.0,60+ mo,94.68,$90+,Month-to-Month,DSL,Credit Card,0,70,0.0,568.08,2,66
+C00996,1,8.0,7-12 mo,52.79,$30-$55,Month-to-Month,Fiber Optic,Credit Card,1,70,52.79,316.74,3,47
+C00396,1,36.0,25-36 mo,101.66,$90+,Month-to-Month,DSL,Bank Transfer,0,70,101.66,609.96,2,32
+C00517,1,62.0,60+ mo,96.24,$90+,Month-to-Month,No Internet,Electronic Check,0,70,96.24,577.4399999999999,3,77
+C00349,0,22.0,13-24 mo,109.01,$90+,Month-to-Month,Fiber Optic,Credit Card,0,70,0.0,654.0600000000001,1,68
+C00313,1,41.0,37-60 mo,92.21,$90+,Month-to-Month,DSL,Credit Card,1,70,92.21,553.26,2,56
+C00596,0,4.0,0-6 mo,105.42,$90+,One Year,DSL,Electronic Check,1,70,0.0,1265.04,3,69
+C00287,0,20.0,13-24 mo,109.2001,$90+,Month-to-Month,No Internet,Electronic Check,0,70,0.0,655.2006,2,84
+C00304,0,38.0,37-60 mo,98.68,$90+,Month-to-Month,Fiber Optic,Bank Transfer,0,70,0.0,592.08,2,85
+C00788,0,8.0,7-12 mo,23.87,<$30,Month-to-Month,No Internet,Electronic Check,0,70,0.0,143.22,2,86
+C00818,0,9.0,7-12 mo,53.1,$30-$55,Month-to-Month,Fiber Optic,Credit Card,0,70,0.0,318.6,2,53
+C00146,0,37.0,37-60 mo,105.23,$90+,Month-to-Month,No Internet,Bank Transfer,1,70,0.0,631.38,2,31
+C00864,0,34.0,25-36 mo,77.85,$75-$90,Month-to-Month,Fiber Optic,Mailed Check,0,70,0.0,467.09999999999997,1,82
+C00127,1,11.0,7-12 mo,48.37,$30-$55,Month-to-Month,No Internet,Mailed Check,1,70,48.37,290.21999999999997,5,73
+C00108,0,3.0,0-6 mo,62.49,$55-$75,Month-to-Month,Fiber Optic,Electronic Check,1,70,0.0,374.94,4,72
+C00948,1,40.0,37-60 mo,105.94,$90+,Month-to-Month,No Internet,Credit Card,0,70,105.94,635.64,3,58
+C00096,0,11.0,7-12 mo,83.54,$75-$90,Two Year,No Internet,Electronic Check,0,70,0.0,2004.96,1,39
+C00925,0,66.0,60+ mo,90.32,$90+,Month-to-Month,DSL,Credit Card,0,70,0.0,541.92,2,36
+C00883,0,58.0,37-60 mo,75.88,$75-$90,Month-to-Month,DSL,Credit Card,0,70,0.0,455.28,1,65
+C00061,0,62.0,60+ mo,86.2,$75-$90,Month-to-Month,DSL,Bank Transfer,0,70,0.0,517.2,3,72
+C00890,0,49.0,37-60 mo,97.76,$90+,Month-to-Month,DSL,Mailed Check,0,70,0.0,586.5600000000001,3,58
+C00010,0,26.0,25-36 mo,81.91,$75-$90,Month-to-Month,Fiber Optic,Credit Card,1,70,0.0,491.46,1,50
+C00009,0,59.0,37-60 mo,75.35,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,0,70,0.0,452.09999999999997,2,34
+C00015,0,16.0,13-24 mo,95.6,$90+,Month-to-Month,DSL,Bank Transfer,0,70,0.0,573.5999999999999,1,56
+C00042,0,4.0,0-6 mo,29.37,<$30,Month-to-Month,DSL,Mailed Check,0,70,0.0,176.22,2,50
+C00008,0,15.0,13-24 mo,93.36,$90+,Month-to-Month,DSL,Credit Card,0,70,0.0,560.16,3,31
+C00973,0,22.0,13-24 mo,81.16,$75-$90,Month-to-Month,No Internet,Electronic Check,0,70,0.0,486.96,1,37
+C00995,0,25.0,25-36 mo,77.24,$75-$90,Month-to-Month,No Internet,Mailed Check,0,70,0.0,463.43999999999994,1,50
+C00459,0,6.0,0-6 mo,78.18,$75-$90,Month-to-Month,Fiber Optic,Credit Card,1,70,0.0,469.08000000000004,2,17
+C00326,0,26.0,25-36 mo,75.92,$75-$90,Month-to-Month,DSL,Credit Card,1,70,0.0,455.52,2,81
+C00342,0,50.0,37-60 mo,85.72,$75-$90,Month-to-Month,Fiber Optic,Bank Transfer,1,70,0.0,514.3199999999999,2,80
+C00323,0,33.0,25-36 mo,82.94,$75-$90,Month-to-Month,No Internet,Mailed Check,0,70,0.0,497.64,3,52
+C00510,0,1.0,0-6 mo,66.55,$55-$75,Month-to-Month,Fiber Optic,Electronic Check,0,70,0.0,399.29999999999995,4,81
+C00549,1,46.0,37-60 mo,107.37,$90+,Month-to-Month,No Internet,Credit Card,0,70,107.37,644.22,1,44
+C00528,0,4.0,0-6 mo,32.22,$30-$55,Month-to-Month,DSL,Electronic Check,1,70,0.0,193.32,5,34
+C00628,0,37.0,37-60 mo,86.06,$75-$90,Month-to-Month,DSL,Electronic Check,0,70,0.0,516.36,2,69
+C00227,0,11.0,7-12 mo,93.83,$90+,One Year,DSL,Electronic Check,1,70,0.0,1125.96,3,81
+C00328,0,66.0,60+ mo,76.54,$75-$90,Month-to-Month,No Internet,Credit Card,0,70,0.0,459.24,2,86
+C00968,0,8.0,7-12 mo,95.58,$90+,Month-to-Month,No Internet,Credit Card,0,70,0.0,573.48,1,4
+C00443,0,1.0,0-6 mo,94.66,$90+,Month-to-Month,Fiber Optic,Credit Card,1,70,0.0,567.96,2,18
+C00420,1,62.0,60+ mo,93.64,$90+,Month-to-Month,No Internet,Mailed Check,1,70,93.64,561.84,2,55
+C00964,0,18.0,13-24 mo,101.2,$90+,Month-to-Month,No Internet,Bank Transfer,0,70,0.0,607.2,1,49
+C00873,0,64.0,60+ mo,103.75,$90+,Month-to-Month,Fiber Optic,Mailed Check,1,65,0.0,622.5,4,68
+C00919,0,8.0,7-12 mo,55.35,$55-$75,Month-to-Month,Fiber Optic,Bank Transfer,0,65,0.0,332.1,3,7
+C00951,0,25.0,25-36 mo,63.34,$55-$75,Month-to-Month,No Internet,Credit Card,0,65,0.0,380.04,2,67
+C00912,0,15.0,13-24 mo,94.65,$90+,Month-to-Month,DSL,Electronic Check,0,65,0.0,567.9000000000001,4,66
+C00755,1,38.0,37-60 mo,77.09,$75-$90,Month-to-Month,No Internet,Credit Card,0,65,77.09,462.54,2,63
+C00772,0,10.0,7-12 mo,98.28,$90+,Month-to-Month,DSL,Bank Transfer,0,65,0.0,589.6800000000001,5,26
+C00806,1,2.0,0-6 mo,98.99,$90+,One Year,Fiber Optic,Bank Transfer,0,65,98.99,1187.8799999999999,3,83
+C00747,0,35.0,25-36 mo,98.8,$90+,Month-to-Month,Fiber Optic,Electronic Check,1,65,0.0,592.8,2,78
+C00743,0,26.0,25-36 mo,95.98,$90+,Month-to-Month,Fiber Optic,Mailed Check,0,65,0.0,575.88,3,32
+C00871,0,42.0,37-60 mo,82.1,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,1,65,0.0,492.59999999999997,2,34
+C00869,1,42.0,37-60 mo,68.49,$55-$75,Month-to-Month,DSL,Credit Card,0,65,68.49,410.93999999999994,3,56
+C00236,0,4.0,0-6 mo,63.68,$55-$75,Month-to-Month,DSL,Electronic Check,0,65,0.0,382.08,1,25
+C00251,0,59.0,37-60 mo,50.32,$30-$55,Month-to-Month,DSL,Electronic Check,0,65,0.0,301.92,2,87
+C00260,0,15.0,13-24 mo,42.89,$30-$55,Month-to-Month,DSL,Electronic Check,1,65,0.0,257.34000000000003,2,35
+C00257,0,1.0,0-6 mo,101.12,$90+,Month-to-Month,Fiber Optic,Electronic Check,1,65,0.0,606.72,3,27
+C00275,0,8.0,7-12 mo,86.43,$75-$90,Two Year,No Internet,Credit Card,0,65,0.0,2074.32,4,34
+C00739,0,67.0,60+ mo,30.44,$30-$55,Month-to-Month,DSL,Mailed Check,0,65,0.0,182.64000000000001,3,87
+C00659,0,18.0,13-24 mo,45.23,$30-$55,Month-to-Month,No Internet,Electronic Check,1,65,0.0,271.38,2,72
+C00654,0,25.0,25-36 mo,99.6,$90+,Month-to-Month,DSL,Electronic Check,1,65,0.0,597.5999999999999,2,69
+C00177,0,45.0,37-60 mo,91.46,$90+,Month-to-Month,DSL,Mailed Check,0,65,0.0,548.76,2,81
+C00643,0,21.0,13-24 mo,109.2001,$90+,Month-to-Month,No Internet,Electronic Check,1,65,0.0,655.2006,2,49
+C00581,1,19.0,13-24 mo,83.98,$75-$90,Month-to-Month,No Internet,Bank Transfer,0,65,83.98,503.88,3,49
+C00230,1,32.0,25-36 mo,107.1,$90+,Month-to-Month,No Internet,Mailed Check,1,65,107.1,642.5999999999999,2,89
+C00592,0,30.0,25-36 mo,81.27,$75-$90,Month-to-Month,DSL,Electronic Check,0,65,0.0,487.62,2,32
+C00298,0,2.0,0-6 mo,101.32,$90+,Month-to-Month,No Internet,Bank Transfer,0,65,0.0,607.92,3,11
+C00291,0,70.00999999999999,60+ mo,97.97,$90+,Month-to-Month,No Internet,Bank Transfer,0,65,0.0,587.8199999999999,2,53
+C00520,0,70.0,60+ mo,72.22,$55-$75,Month-to-Month,No Internet,Mailed Check,1,65,0.0,433.32,1,46
+C00346,0,4.0,0-6 mo,98.95,$90+,Month-to-Month,DSL,Bank Transfer,1,65,0.0,593.7,4,6
+C00507,1,46.0,37-60 mo,88.57,$75-$90,Month-to-Month,Fiber Optic,Credit Card,0,65,88.57,531.42,2,59
+C00514,0,53.0,37-60 mo,91.25,$90+,Month-to-Month,No Internet,Bank Transfer,0,65,0.0,547.5,2,41
+C00580,0,13.0,13-24 mo,96.73,$90+,Month-to-Month,Fiber Optic,Credit Card,0,65,0.0,580.38,3,42
+C00552,0,26.0,25-36 mo,63.01,$55-$75,Month-to-Month,Fiber Optic,Bank Transfer,0,65,0.0,378.06,3,51
+C00573,0,15.0,13-24 mo,86.11,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,0,65,0.0,516.66,2,61
+C00550,0,9.0,7-12 mo,89.62,$75-$90,Two Year,Fiber Optic,Credit Card,0,65,0.0,2150.88,4,39
+C00470,0,59.0,37-60 mo,94.61,$90+,Month-to-Month,DSL,Mailed Check,1,65,0.0,567.66,3,32
+C00408,1,21.0,13-24 mo,24.45,<$30,Month-to-Month,DSL,Electronic Check,1,65,24.45,146.7,1,63
+C00413,0,44.0,37-60 mo,59.47,$55-$75,Month-to-Month,No Internet,Mailed Check,0,65,0.0,356.82,1,70
+C00436,0,47.0,37-60 mo,46.71,$30-$55,Month-to-Month,No Internet,Electronic Check,1,65,0.0,280.26,1,47
+C00438,0,11.0,7-12 mo,105.86,$90+,Month-to-Month,DSL,Mailed Check,1,65,0.0,635.16,3,22
+C00458,0,28.0,25-36 mo,78.15,$75-$90,Month-to-Month,DSL,Electronic Check,0,65,0.0,468.90000000000003,2,32
+C00998,1,16.0,13-24 mo,99.15,$90+,Month-to-Month,No Internet,Mailed Check,0,65,99.15,594.9000000000001,1,57
+C00980,0,50.0,37-60 mo,95.57,$90+,Month-to-Month,Fiber Optic,Mailed Check,0,65,0.0,573.42,5,87
+C00000,0,47.0,37-60 mo,86.75,$75-$90,Month-to-Month,DSL,Electronic Check,0,65,0.0,520.5,1,67
+C00031,0,31.0,25-36 mo,79.67,$75-$90,Month-to-Month,No Internet,Bank Transfer,1,60,0.0,478.02,1,24
+C00976,0,2.0,0-6 mo,84.72,$75-$90,One Year,DSL,Bank Transfer,1,60,0.0,1016.64,3,40
+C00988,0,3.0,0-6 mo,100.0,$90+,One Year,No Internet,Bank Transfer,0,60,0.0,1200.0,1,58
+C00409,0,15.0,13-24 mo,95.0,$90+,Month-to-Month,No Internet,Credit Card,0,60,0.0,570.0,3,29
+C00374,0,59.0,37-60 mo,50.67,$30-$55,Month-to-Month,DSL,Mailed Check,1,60,0.0,304.02,2,86
+C00533,0,1.0,0-6 mo,55.59,$55-$75,Month-to-Month,No Internet,Electronic Check,0,60,0.0,333.54,4,25
+C00448,0,1.0,0-6 mo,92.03,$90+,Two Year,Fiber Optic,Credit Card,0,60,0.0,2208.7200000000003,1,71
+C00345,0,7.0,7-12 mo,98.95,$90+,Two Year,DSL,Credit Card,0,60,0.0,2374.8,3,47
+C00511,0,19.0,13-24 mo,54.1,$30-$55,Month-to-Month,No Internet,Bank Transfer,1,60,0.0,324.6,5,81
+C00148,0,48.0,37-60 mo,36.47,$30-$55,Month-to-Month,No Internet,Bank Transfer,1,60,0.0,218.82,3,40
+C00872,0,13.0,13-24 mo,82.11,$75-$90,Month-to-Month,Fiber Optic,Mailed Check,1,60,0.0,492.65999999999997,1,22
+C00115,1,9.0,7-12 mo,90.84,$90+,Two Year,Fiber Optic,Credit Card,0,60,90.84,2180.16,1,42
+C00176,0,5.0,0-6 mo,108.03,$90+,Two Year,Fiber Optic,Mailed Check,0,60,0.0,2592.7200000000003,1,58
+C00182,1,10.0,7-12 mo,88.26,$75-$90,One Year,DSL,Bank Transfer,1,60,88.26,1059.1200000000001,1,56
+C00737,1,2.0,0-6 mo,104.27,$90+,Two Year,Fiber Optic,Electronic Check,0,60,104.27,2502.48,2,67
+C00652,0,10.0,7-12 mo,93.97,$90+,Two Year,DSL,Electronic Check,1,60,0.0,2255.2799999999997,1,70
+C00655,0,2.0,0-6 mo,83.0,$75-$90,One Year,No Internet,Mailed Check,0,60,0.0,996.0,3,84
+C00674,0,3.0,0-6 mo,63.04,$55-$75,Month-to-Month,DSL,Electronic Check,1,60,0.0,378.24,3,5
+C00718,0,8.0,7-12 mo,90.47,$90+,Two Year,Fiber Optic,Mailed Check,0,60,0.0,2171.2799999999997,3,75
+C00163,0,59.0,37-60 mo,96.22,$90+,Month-to-Month,DSL,Bank Transfer,0,60,0.0,577.3199999999999,0,28
+C00280,1,3.0,0-6 mo,86.54,$75-$90,One Year,Fiber Optic,Bank Transfer,0,60,86.54,1038.48,4,66
+C00575,1,36.0,25-36 mo,49.32,$30-$55,Month-to-Month,No Internet,Bank Transfer,0,60,49.32,295.92,4,53
+C00570,0,21.0,13-24 mo,93.51,$90+,Month-to-Month,DSL,Bank Transfer,0,60,0.0,561.0600000000001,3,12
+C00759,1,30.0,25-36 mo,54.66,$30-$55,Month-to-Month,DSL,Credit Card,1,60,54.66,327.96,2,62
+C00782,0,52.0,37-60 mo,107.71,$90+,Month-to-Month,Fiber Optic,Electronic Check,1,60,0.0,646.26,2,3
+C00955,0,44.0,37-60 mo,25.19,<$30,Month-to-Month,DSL,Electronic Check,0,60,0.0,151.14000000000001,4,87
+C00932,1,62.0,60+ mo,53.93,$30-$55,Month-to-Month,Fiber Optic,Electronic Check,1,60,53.93,323.58,3,50
+C00910,0,11.0,7-12 mo,21.17,<$30,Month-to-Month,Fiber Optic,Electronic Check,0,60,0.0,127.02000000000001,2,28
+C00138,0,5.0,0-6 mo,76.2,$75-$90,Two Year,DSL,Credit Card,0,60,0.0,1828.8000000000002,2,89
+C00898,0,8.0,7-12 mo,79.32,$75-$90,Two Year,No Internet,Electronic Check,1,60,0.0,1903.6799999999998,2,49
+C00882,0,10.0,7-12 mo,106.61,$90+,One Year,DSL,Bank Transfer,1,60,0.0,1279.32,2,45
+C00058,0,46.0,37-60 mo,66.83,$55-$75,Month-to-Month,DSL,Credit Card,1,60,0.0,400.98,4,37
+C00676,0,70.0,60+ mo,83.91,$75-$90,Month-to-Month,DSL,Bank Transfer,0,55,0.0,503.46,3,15
+C00508,1,68.0,60+ mo,105.2,$90+,Month-to-Month,No Internet,Bank Transfer,1,55,105.2,631.2,3,1
+C00589,0,8.0,7-12 mo,87.13,$75-$90,One Year,DSL,Bank Transfer,0,55,0.0,1045.56,4,35
+C00569,0,43.0,37-60 mo,33.55,$30-$55,Month-to-Month,Fiber Optic,Credit Card,1,55,0.0,201.29999999999998,2,63
+C00651,0,11.0,7-12 mo,104.34,$90+,One Year,DSL,Mailed Check,1,55,0.0,1252.08,4,66
+C00214,0,17.0,13-24 mo,66.82,$55-$75,Month-to-Month,Fiber Optic,Mailed Check,1,55,0.0,400.91999999999996,2,52
+C00229,0,6.0,0-6 mo,91.87,$90+,Two Year,No Internet,Electronic Check,1,55,0.0,2204.88,3,40
+C00446,1,8.0,7-12 mo,43.1,$30-$55,Two Year,DSL,Mailed Check,1,55,43.1,1034.4,0,39
+C00492,0,8.0,7-12 mo,54.58,$30-$55,Month-to-Month,No Internet,Credit Card,0,55,0.0,327.48,1,24
+C00994,0,39.0,37-60 mo,22.95,<$30,Month-to-Month,DSL,Bank Transfer,0,55,0.0,137.7,1,61
+C00400,0,6.0,0-6 mo,62.57,$55-$75,Month-to-Month,DSL,Electronic Check,1,55,0.0,375.42,3,17
+C00386,0,24.0,13-24 mo,43.64,$30-$55,Month-to-Month,Fiber Optic,Electronic Check,0,55,0.0,261.84000000000003,1,64
+C00961,0,39.0,37-60 mo,71.65,$55-$75,Month-to-Month,DSL,Electronic Check,0,55,0.0,429.90000000000003,0,71
+C00351,1,3.0,0-6 mo,67.82,$55-$75,One Year,Fiber Optic,Credit Card,1,55,67.82,813.8399999999999,0,43
+C00331,1,15.0,13-24 mo,60.49,$55-$75,Month-to-Month,DSL,Bank Transfer,1,55,60.49,362.94,4,48
+C00426,0,28.0,25-36 mo,24.04,<$30,Month-to-Month,DSL,Credit Card,1,55,0.0,144.24,4,48
+C00439,0,10.0,7-12 mo,84.93,$75-$90,Two Year,No Internet,Credit Card,1,55,0.0,2038.3200000000002,2,39
+C00411,1,8.0,7-12 mo,45.64,$30-$55,Month-to-Month,Fiber Optic,Credit Card,1,55,45.64,273.84000000000003,2,29
+C00957,0,51.0,37-60 mo,44.8,$30-$55,Month-to-Month,No Internet,Electronic Check,1,55,0.0,268.79999999999995,2,52
+C00974,0,29.0,25-36 mo,40.24,$30-$55,Month-to-Month,DSL,Credit Card,0,55,0.0,241.44,2,45
+C00020,0,7.0,7-12 mo,81.05,$75-$90,One Year,DSL,Mailed Check,0,55,0.0,972.5999999999999,2,44
+C00017,0,17.0,13-24 mo,20.99,<$30,Month-to-Month,Fiber Optic,Bank Transfer,0,55,0.0,125.94,4,48
+C00014,0,10.0,7-12 mo,96.32,$90+,One Year,DSL,Credit Card,0,55,0.0,1155.84,2,43
+C00825,1,4.0,0-6 mo,77.77,$75-$90,Two Year,Fiber Optic,Mailed Check,1,55,77.77,1866.48,4,36
+C00916,0,58.0,37-60 mo,55.57,$55-$75,Month-to-Month,DSL,Credit Card,1,55,0.0,333.42,2,86
+C00845,0,21.0,13-24 mo,72.4,$55-$75,Month-to-Month,Fiber Optic,Credit Card,0,55,0.0,434.40000000000003,1,54
+C00858,0,63.0,60+ mo,48.36,$30-$55,Month-to-Month,DSL,Electronic Check,1,55,0.0,290.15999999999997,3,75
+C00118,1,35.0,25-36 mo,58.6,$55-$75,Month-to-Month,Fiber Optic,Bank Transfer,1,55,58.6,351.6,2,70
+C00143,0,48.0,37-60 mo,37.21,$30-$55,Month-to-Month,DSL,Credit Card,0,55,0.0,223.26,0,64
+C00142,0,5.0,0-6 mo,85.26,$75-$90,Two Year,DSL,Mailed Check,0,55,0.0,2046.2400000000002,3,39
+C00063,0,16.0,13-24 mo,53.43,$30-$55,Month-to-Month,Fiber Optic,Electronic Check,1,55,0.0,320.58,2,57
+C00084,0,49.0,37-60 mo,72.78,$55-$75,Month-to-Month,Fiber Optic,Credit Card,0,55,0.0,436.68,3,35
+C00091,0,70.0,60+ mo,53.92,$30-$55,Month-to-Month,Fiber Optic,Credit Card,0,55,0.0,323.52,0,35
+C00944,0,11.0,7-12 mo,20.5496,<$30,Month-to-Month,DSL,Mailed Check,0,55,0.0,123.29760000000002,1,4
+C00949,0,18.0,13-24 mo,64.52,$55-$75,Month-to-Month,Fiber Optic,Credit Card,0,55,0.0,387.12,1,37
+C00905,1,5.0,0-6 mo,39.72,$30-$55,Month-to-Month,No Internet,Bank Transfer,0,55,39.72,238.32,2,7
+C00070,1,49.0,37-60 mo,77.38,$75-$90,Month-to-Month,No Internet,Bank Transfer,1,55,77.38,464.28,3,3
+C00154,1,58.0,37-60 mo,69.06,$55-$75,Month-to-Month,Fiber Optic,Credit Card,1,55,69.06,414.36,1,58
+C00101,0,4.0,0-6 mo,90.22,$90+,One Year,DSL,Bank Transfer,0,55,0.0,1082.6399999999999,4,63
+C00834,0,63.0,60+ mo,74.55,$55-$75,Month-to-Month,DSL,Credit Card,0,55,0.0,447.29999999999995,2,51
+C00207,0,68.0,60+ mo,52.1,$30-$55,Month-to-Month,DSL,Electronic Check,0,55,0.0,312.6,2,58
+C00857,0,11.0,7-12 mo,96.25,$90+,One Year,Fiber Optic,Electronic Check,0,55,0.0,1155.0,1,46
+C00846,0,10.0,7-12 mo,109.12,$90+,Two Year,Fiber Optic,Credit Card,0,55,0.0,2618.88,3,47
+C00174,0,60.0,37-60 mo,30.07,$30-$55,Month-to-Month,No Internet,Mailed Check,0,55,0.0,180.42000000000002,3,38
+C00745,1,55.0,37-60 mo,32.52,$30-$55,Month-to-Month,DSL,Bank Transfer,1,55,32.52,195.12,4,43
+C00705,1,36.0,25-36 mo,70.7,$55-$75,Month-to-Month,No Internet,Bank Transfer,1,55,70.7,424.20000000000005,2,48
+C00731,1,16.0,13-24 mo,97.99,$90+,Month-to-Month,No Internet,Credit Card,1,55,97.99,587.9399999999999,1,15
+C00311,0,11.0,7-12 mo,31.6,$30-$55,Month-to-Month,DSL,Bank Transfer,0,55,0.0,189.60000000000002,3,29
+C00309,0,41.0,37-60 mo,40.41,$30-$55,Month-to-Month,No Internet,Credit Card,0,55,0.0,242.45999999999998,3,77
+C00232,0,58.0,37-60 mo,30.59,$30-$55,Month-to-Month,No Internet,Electronic Check,1,55,0.0,183.54,1,34
+C00627,1,26.0,25-36 mo,39.87,$30-$55,Month-to-Month,Fiber Optic,Credit Card,1,55,39.87,239.21999999999997,1,76
+C00603,0,56.0,37-60 mo,67.02,$55-$75,Month-to-Month,DSL,Electronic Check,0,55,0.0,402.12,3,32
+C00583,0,68.0,60+ mo,31.91,$30-$55,Month-to-Month,Fiber Optic,Mailed Check,0,55,0.0,191.46,3,56
+C00317,0,54.0,37-60 mo,22.45,<$30,Month-to-Month,No Internet,Electronic Check,1,55,0.0,134.7,1,60
+C00563,0,44.0,37-60 mo,41.15,$30-$55,Month-to-Month,No Internet,Electronic Check,1,55,0.0,246.89999999999998,3,48
+C00187,0,31.0,25-36 mo,34.55,$30-$55,Month-to-Month,Fiber Optic,Mailed Check,0,55,0.0,207.29999999999998,2,36
+C00184,0,53.0,37-60 mo,21.62,<$30,Month-to-Month,Fiber Optic,Bank Transfer,1,55,0.0,129.72,3,88
+C00156,0,56.0,37-60 mo,40.47,$30-$55,Month-to-Month,No Internet,Electronic Check,0,55,0.0,242.82,4,46
+C00162,0,40.0,37-60 mo,40.35,$30-$55,Month-to-Month,DSL,Credit Card,1,55,0.0,242.10000000000002,2,36
+C00683,0,60.0,37-60 mo,43.96,$30-$55,Month-to-Month,DSL,Bank Transfer,0,55,0.0,263.76,1,50
+C00723,1,5.0,0-6 mo,62.03,$55-$75,Two Year,No Internet,Credit Card,1,55,62.03,1488.72,1,75
+C00256,1,3.0,0-6 mo,108.93,$90+,Two Year,Fiber Optic,Mailed Check,0,55,108.93,2614.32,3,87
+C00322,0,2.0,0-6 mo,94.34,$90+,Two Year,Fiber Optic,Credit Card,0,55,0.0,2264.16,2,83
+C00594,1,2.0,0-6 mo,23.1,<$30,Month-to-Month,Fiber Optic,Bank Transfer,0,55,23.1,138.60000000000002,3,7
+C00601,0,70.00999999999999,60+ mo,47.22,$30-$55,Month-to-Month,DSL,Bank Transfer,1,55,0.0,283.32,2,86
+C00366,1,32.0,25-36 mo,25.82,<$30,Month-to-Month,Fiber Optic,Mailed Check,1,50,25.82,154.92000000000002,2,34
+C00451,0,28.0,25-36 mo,73.67,$55-$75,Month-to-Month,No Internet,Credit Card,1,50,0.0,442.02,3,65
+C00473,1,51.0,37-60 mo,82.54,$75-$90,Two Year,No Internet,Electronic Check,0,50,82.54,1980.96,2,79
+C00441,1,14.0,13-24 mo,20.5496,<$30,Month-to-Month,Fiber Optic,Mailed Check,0,50,20.5496,123.29760000000002,3,58
+C00453,1,47.0,37-60 mo,101.03,$90+,Month-to-Month,DSL,Bank Transfer,0,50,101.03,606.1800000000001,2,18
+C00490,0,52.0,37-60 mo,73.13,$55-$75,Month-to-Month,DSL,Credit Card,1,50,0.0,438.78,2,32
+C00440,0,67.0,60+ mo,97.66,$90+,Two Year,No Internet,Electronic Check,1,50,0.0,2343.84,3,87
+C00435,0,23.0,13-24 mo,80.71,$75-$90,One Year,Fiber Optic,Bank Transfer,0,50,0.0,968.52,3,37
+C00444,1,5.0,0-6 mo,23.65,<$30,Month-to-Month,No Internet,Mailed Check,1,50,23.65,141.89999999999998,2,18
+C00984,0,43.0,37-60 mo,96.13,$90+,One Year,Fiber Optic,Electronic Check,1,50,0.0,1153.56,2,51
+C00385,1,61.0,60+ mo,107.37,$90+,Two Year,No Internet,Credit Card,0,50,107.37,2576.88,3,48
+C00990,1,19.0,13-24 mo,38.4,$30-$55,Month-to-Month,No Internet,Mailed Check,0,50,38.4,230.39999999999998,1,51
+C00021,0,14.0,13-24 mo,88.06,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,0,50,0.0,528.36,3,10
+C00022,0,7.0,7-12 mo,95.78,$90+,One Year,Fiber Optic,Mailed Check,0,50,0.0,1149.3600000000001,1,20
+C00030,0,14.0,13-24 mo,32.4,$30-$55,Month-to-Month,Fiber Optic,Electronic Check,1,50,0.0,194.39999999999998,4,84
+C00987,0,56.0,37-60 mo,94.08,$90+,Month-to-Month,No Internet,Mailed Check,0,50,0.0,564.48,4,30
+C00050,1,42.0,37-60 mo,48.99,$30-$55,Month-to-Month,Fiber Optic,Electronic Check,0,50,48.99,293.94,1,55
+C00404,0,12.0,7-12 mo,62.69,$55-$75,Month-to-Month,DSL,Electronic Check,1,50,0.0,376.14,2,46
+C00399,1,36.0,25-36 mo,60.54,$55-$75,Month-to-Month,DSL,Electronic Check,0,50,60.54,363.24,2,68
+C00335,0,67.0,60+ mo,43.7,$30-$55,Month-to-Month,DSL,Mailed Check,1,50,0.0,262.20000000000005,4,45
+C00338,0,6.0,0-6 mo,45.54,$30-$55,One Year,DSL,Bank Transfer,0,50,0.0,546.48,2,65
+C00341,0,8.0,7-12 mo,40.37,$30-$55,One Year,Fiber Optic,Bank Transfer,0,50,0.0,484.43999999999994,2,65
+C00558,1,25.0,25-36 mo,94.41,$90+,Month-to-Month,Fiber Optic,Mailed Check,0,50,94.41,566.46,2,30
+C00526,0,31.0,25-36 mo,107.97,$90+,Month-to-Month,Fiber Optic,Credit Card,0,50,0.0,647.8199999999999,3,4
+C00513,1,14.0,13-24 mo,54.73,$30-$55,Month-to-Month,Fiber Optic,Bank Transfer,0,50,54.73,328.38,3,58
+C00512,1,31.0,25-36 mo,20.6,<$30,Month-to-Month,Fiber Optic,Electronic Check,1,50,20.6,123.60000000000001,4,52
+C00501,0,43.0,37-60 mo,55.37,$55-$75,Month-to-Month,Fiber Optic,Credit Card,0,50,0.0,332.21999999999997,4,67
+C00358,1,25.0,25-36 mo,79.29,$75-$90,Month-to-Month,DSL,Credit Card,0,50,79.29,475.74,1,18
+C00489,1,45.0,37-60 mo,97.56,$90+,One Year,DSL,Electronic Check,1,50,97.56,1170.72,1,33
+C00189,0,12.0,7-12 mo,105.2,$90+,Two Year,Fiber Optic,Credit Card,0,50,0.0,2524.8,0,57
+C00682,0,2.0,0-6 mo,33.71,$30-$55,One Year,DSL,Electronic Check,0,50,0.0,404.52,4,64
+C00169,0,53.0,37-60 mo,97.58,$90+,One Year,No Internet,Credit Card,0,50,0.0,1170.96,1,75
+C00758,1,30.0,25-36 mo,64.87,$55-$75,Month-to-Month,Fiber Optic,Credit Card,0,50,64.87,389.22,2,67
+C00752,0,12.0,7-12 mo,104.96,$90+,Two Year,No Internet,Electronic Check,0,50,0.0,2519.04,3,81
+C00749,0,43.0,37-60 mo,45.06,$30-$55,Month-to-Month,No Internet,Mailed Check,1,50,0.0,270.36,2,46
+C00746,0,6.0,0-6 mo,42.88,$30-$55,One Year,No Internet,Electronic Check,1,50,0.0,514.5600000000001,4,43
+C00711,0,30.0,25-36 mo,99.38,$90+,Month-to-Month,Fiber Optic,Credit Card,0,50,0.0,596.28,2,2
+C00732,0,38.0,37-60 mo,71.46,$55-$75,Month-to-Month,DSL,Bank Transfer,0,50,0.0,428.76,3,37
+C00292,1,17.0,13-24 mo,39.4,$30-$55,Month-to-Month,Fiber Optic,Credit Card,1,50,39.4,236.39999999999998,4,63
+C00629,0,68.0,60+ mo,88.63,$75-$90,Two Year,DSL,Credit Card,0,50,0.0,2127.12,2,37
+C00609,0,68.0,60+ mo,85.31,$75-$90,Month-to-Month,No Internet,Bank Transfer,0,50,0.0,511.86,3,14
+C00591,0,36.0,25-36 mo,25.2,<$30,Month-to-Month,No Internet,Credit Card,0,50,0.0,151.2,4,81
+C00567,0,70.0,60+ mo,72.47,$55-$75,Month-to-Month,Fiber Optic,Electronic Check,1,50,0.0,434.82,2,59
+C00587,0,28.0,25-36 mo,61.26,$55-$75,Month-to-Month,No Internet,Electronic Check,0,50,0.0,367.56,4,88
+C00278,0,50.0,37-60 mo,42.86,$30-$55,Month-to-Month,No Internet,Mailed Check,1,50,0.0,257.15999999999997,2,77
+C00281,0,64.0,60+ mo,29.57,<$30,Month-to-Month,No Internet,Bank Transfer,1,50,0.0,177.42000000000002,2,37
+C00615,1,47.0,37-60 mo,92.59,$90+,Month-to-Month,DSL,Credit Card,0,50,92.59,555.54,2,16
+C00702,0,22.0,13-24 mo,41.12,$30-$55,Month-to-Month,Fiber Optic,Bank Transfer,0,50,0.0,246.71999999999997,3,79
+C00670,0,32.0,25-36 mo,81.36,$75-$90,Two Year,No Internet,Electronic Check,0,50,0.0,1952.6399999999999,2,73
+C00677,0,41.0,37-60 mo,80.02,$75-$90,Two Year,Fiber Optic,Electronic Check,0,50,0.0,1920.48,1,64
+C00639,0,69.0,60+ mo,67.57,$55-$75,Month-to-Month,No Internet,Bank Transfer,1,50,0.0,405.41999999999996,4,88
+C00645,1,48.0,37-60 mo,20.5496,<$30,Month-to-Month,DSL,Electronic Check,0,50,20.5496,123.29760000000002,4,63
+C00219,1,14.0,13-24 mo,52.68,$30-$55,Month-to-Month,Fiber Optic,Bank Transfer,0,50,52.68,316.08,2,49
+C00245,1,22.0,13-24 mo,28.37,<$30,Month-to-Month,DSL,Credit Card,1,50,28.37,170.22,3,37
+C00102,0,59.0,37-60 mo,20.63,<$30,Month-to-Month,Fiber Optic,Mailed Check,1,50,0.0,123.78,3,36
+C00850,0,65.0,60+ mo,78.01,$75-$90,Month-to-Month,Fiber Optic,Mailed Check,0,50,0.0,468.06000000000006,3,22
+C00851,1,13.0,13-24 mo,70.52,$55-$75,Month-to-Month,Fiber Optic,Mailed Check,0,50,70.52,423.12,2,50
+C00100,0,52.0,37-60 mo,101.85,$90+,Month-to-Month,Fiber Optic,Mailed Check,0,50,0.0,611.0999999999999,2,14
+C00809,0,31.0,25-36 mo,88.61,$75-$90,One Year,Fiber Optic,Credit Card,1,50,0.0,1063.32,2,74
+C00767,1,35.0,25-36 mo,36.74,$30-$55,Month-to-Month,DSL,Bank Transfer,1,50,36.74,220.44,3,60
+C00210,0,64.0,60+ mo,48.11,$30-$55,Month-to-Month,No Internet,Bank Transfer,0,50,0.0,288.65999999999997,3,45
+C00206,0,22.0,13-24 mo,28.46,<$30,Month-to-Month,No Internet,Bank Transfer,1,50,0.0,170.76,1,60
+C00779,0,14.0,13-24 mo,103.77,$90+,Month-to-Month,No Internet,Bank Transfer,1,50,0.0,622.62,1,18
+C00777,0,33.0,25-36 mo,23.23,<$30,Month-to-Month,Fiber Optic,Electronic Check,0,50,0.0,139.38,3,73
+C00790,0,68.0,60+ mo,94.1,$90+,Two Year,DSL,Credit Card,0,50,0.0,2258.3999999999996,2,51
+C00795,1,12.0,7-12 mo,41.77,$30-$55,Month-to-Month,No Internet,Credit Card,1,50,41.77,250.62,3,62
+C00813,1,2.0,0-6 mo,31.84,$30-$55,Month-to-Month,DSL,Electronic Check,0,50,31.84,191.04,2,9
+C00805,0,43.0,37-60 mo,85.24,$75-$90,Month-to-Month,Fiber Optic,Mailed Check,0,50,0.0,511.43999999999994,3,2
+C00838,0,14.0,13-24 mo,100.95,$90+,One Year,DSL,Mailed Check,1,50,0.0,1211.4,2,36
+C00888,0,8.0,7-12 mo,61.27,$55-$75,Month-to-Month,DSL,Credit Card,0,50,0.0,367.62,2,12
+C00066,0,30.0,25-36 mo,88.99,$75-$90,Month-to-Month,DSL,Credit Card,0,50,0.0,533.9399999999999,3,6
+C00054,0,13.0,13-24 mo,87.13,$75-$90,Month-to-Month,Fiber Optic,Electronic Check,0,50,0.0,522.78,3,14
+C00907,0,21.0,13-24 mo,102.74,$90+,Month-to-Month,DSL,Bank Transfer,0,50,0.0,616.4399999999999,1,27
+C00914,0,28.0,25-36 mo,51.95,$30-$55,Month-to-Month,DSL,Mailed Check,1,50,0.0,311.70000000000005,3,47
+C00874,0,17.0,13-24 mo,64.76,$55-$75,Month-to-Month,DSL,Credit Card,1,50,0.0,388.56000000000006,3,57
+C00149,0,28.0,25-36 mo,21.98,<$30,Month-to-Month,No Internet,Electronic Check,1,50,0.0,131.88,1,33
+C00889,0,59.0,37-60 mo,70.48,$55-$75,Month-to-Month,DSL,Credit Card,1,50,0.0,422.88,4,82
+C00068,0,5.0,0-6 mo,46.95,$30-$55,One Year,Fiber Optic,Mailed Check,1,50,0.0,563.4000000000001,2,43
+C00922,1,38.0,37-60 mo,47.9,$30-$55,Month-to-Month,DSL,Electronic Check,0,50,47.9,287.4,4,44
+C00920,1,64.0,60+ mo,96.88,$90+,Month-to-Month,DSL,Bank Transfer,0,50,96.88,581.28,0,3
+C00072,0,45.0,37-60 mo,36.04,$30-$55,Month-to-Month,DSL,Credit Card,0,50,0.0,216.24,2,55
+C00078,0,37.0,37-60 mo,38.26,$30-$55,Month-to-Month,Fiber Optic,Credit Card,0,50,0.0,229.56,3,71
+C00940,0,32.0,25-36 mo,42.84,$30-$55,Month-to-Month,DSL,Credit Card,1,50,0.0,257.04,4,55
+C00938,0,13.0,13-24 mo,66.32,$55-$75,Month-to-Month,DSL,Electronic Check,0,50,0.0,397.91999999999996,4,77
+C00931,1,41.0,37-60 mo,90.6,$90+,One Year,Fiber Optic,Bank Transfer,1,50,90.6,1087.1999999999998,2,38
+C00950,0,55.0,37-60 mo,66.14,$55-$75,Month-to-Month,No Internet,Bank Transfer,0,50,0.0,396.84000000000003,2,49
